@@ -46,7 +46,7 @@ def install_package(package):
 
 def ARAFAT():
     clear()
-    ALLMasTerx1001('xdg-openhttps://www.facebook.com/CyberAbir121')
+    ALLMasTerx1001('xdg-open https://www.facebook.com/CyberAbir121')
     print(f'{B} [{warna}01{B}] \33[0;41mFULL SETUP\033[0;92m ')
     print(f'{B} [{warna}02{B}] \33[0;41mBASIC SETUP\033[0;92m ')
     print(f'{B} [{warna}03{B}] Facebook  ')
